@@ -1,4 +1,5 @@
 🌐 Streamlit Translator App
+
 This is a simple and interactive multi-language text translator built using Streamlit, Deep Translator, and gTTS. It allows users to translate text between various languages and optionally listen to both original and translated audio.
 
 🚀 Features
