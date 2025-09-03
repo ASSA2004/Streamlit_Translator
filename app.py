@@ -68,3 +68,4 @@ if st.button("Translate"):
 # --- Footer ---
 st.markdown("---")
 st.caption("Built with Streamlit & Deep Translator • v1.0")
+
